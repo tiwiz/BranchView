@@ -1,0 +1,2 @@
+include ':app', ':branchview', ':devapp'
+rootProject.name='BranchView'
